@@ -1,0 +1,9 @@
+URL: https://github.com/openannotation/xpath-range
+License: MIT
+License File: https://github.com/openannotation/xpath-range/blob/master/LICENSE
+
+Description:
+Get element from xpath range
+
+Local Modifications:
+Removed unused code
